@@ -1,3 +1,5 @@
+CREATE DATABASE RPG_aula
+
 USE RPG_aula;
 GO
 
